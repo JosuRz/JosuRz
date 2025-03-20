@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm JosuRz!</h1>
+<h4 align="center">Independent developer and also an engineering student at the Technological University of El Salvador.
 
-<!--
-**JosuRz/JosuRz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+### 👨🏻‍💻 &nbsp;About Me
 
-Here are some ideas to get you started:
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I am currently studying Systems and Computer Engineering at the Technological University of El Salvador.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at josurzdev@gmail.com ! I'll try to respond as soon as I can.\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+

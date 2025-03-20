@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm JosuRz!</h1>
+<h1 align="center">Hello, I'm JosueRz!</h1>
 <h4 align="center">Independent developer and also an engineering student at the Technological University of El Salvador.
 
   
